@@ -33,16 +33,18 @@ Run the Jarvis Voice Assistant:
 
 Start the assistant by running:
 
-bash
-Copy code
+```bash
 python chatgptva.py
+```
 This script listens to your voice commands and interacts with GPT-3 to provide responses.
 
 In a separate terminal, start the speech-to-text component:
 
 ```bash
-Copy code
 cd voice_assistant
+```
+Run the following Command
+```
 python speech_to_text.py
 ```
 This script converts your speech to text and writes it to a file.
