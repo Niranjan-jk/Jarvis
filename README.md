@@ -22,14 +22,15 @@ An OpenAI API key for seamless interaction with your assistant. Store it in a .e
 
 Clone this repository to your local machine.
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/jarvis-voice-assistant.git
+```
 Navigate to the project directory.
 
 bash
-Copy code
+```
 cd jarvis-voice-assistant
+```
 Run the Jarvis Voice Assistant:
 
 Start the assistant by running:
