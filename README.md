@@ -40,10 +40,11 @@ This script listens to your voice commands and interacts with GPT-3 to provide r
 
 In a separate terminal, start the speech-to-text component:
 
-bash
+```bash
 Copy code
 cd voice_assistant
 python speech_to_text.py
+```
 This script converts your speech to text and writes it to a file.
 
 Follow the prompts and interact with your assistant just like Tony Stark's Jarvis!
