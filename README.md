@@ -18,7 +18,7 @@ Before you begin, make sure you have the following:
    pip install speechrecognition pyttsx3 openai python-dotenv
 An OpenAI API key for seamless interaction with your assistant. Store it in a .env file.
 
-##Usage
+## Usage
 
 Clone this repository to your local machine.
 
@@ -52,7 +52,7 @@ This script converts your speech to text and writes it to a file.
 
 Follow the prompts and interact with your assistant just like Tony Stark's Jarvis!
 
-##Sample Conversation
+## Sample Conversation
 Here's a sample conversation you can try with your voice assistant:
 
 You: "Jarvis, provide me with a weather update for today."
