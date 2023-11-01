@@ -1,6 +1,6 @@
 # Jarvis-Inspired Voice Assistant
 
-[ezgif com-webp-to-png](https://github.com/Niranjan-jk/Jarvis/assets/104316352/fa6ab2da-34f2-4a2e-af6d-e971d0d9329a)
+![jarvis]![ezgif com-webp-to-png](https://github.com/Niranjan-jk/Jarvis/assets/104316352/fa6ab2da-34f2-4a2e-af6d-e971d0d9329a)
 
 
 ## Description
@@ -15,7 +15,7 @@ Before you begin, make sure you have the following:
 - Required Python packages installed. You can install them using `pip`:
 
    ```bash
-   pip install speech_recognition pyttsx3 openai python-dotenv
+   pip install speechrecognition pyttsx3 openai python-dotenv
 An OpenAI API key for seamless interaction with your assistant. Store it in a .env file.
 
 Usage
