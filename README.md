@@ -56,9 +56,16 @@ Follow the prompts and interact with your assistant just like Tony Stark's Jarvi
 Here's a sample conversation you can try with your voice assistant:
 
 You: "Jarvis, provide me with a weather update for today."
+
 Assistant: "Of course, sir. The weather forecast for today is as follows..."
+
 You: "Thank you, Jarvis. Can you also schedule a meeting for 2 PM?"
+
 Assistant: "Certainly, sir. Your meeting is scheduled for 2 PM."
+
 You: "Jarvis, play some relaxing music, please."
+
 Assistant: "As you wish, sir. Playing relaxing music now."
+
+
 Feel free to extend the conversation and enjoy your interactions with Jarvis!
