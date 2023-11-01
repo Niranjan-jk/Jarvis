@@ -25,13 +25,6 @@ Clone this repository to your local machine.
 ```bash
 git clone https://github.com/yourusername/jarvis-voice-assistant.git
 ```
-Navigate to the project directory.
-
-bash
-```
-cd jarvis-voice-assistant
-```
-Run the Jarvis Voice Assistant:
 
 Start the assistant by running:
 
