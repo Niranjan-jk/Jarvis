@@ -1,6 +1,6 @@
 # Jarvis-Inspired Voice Assistant
 
-![Jarvis]![ezgif com-webp-to-png](https://github.com/Niranjan-jk/Jarvis/assets/104316352/fa6ab2da-34f2-4a2e-af6d-e971d0d9329a)
+[ezgif com-webp-to-png](https://github.com/Niranjan-jk/Jarvis/assets/104316352/fa6ab2da-34f2-4a2e-af6d-e971d0d9329a)
 
 
 ## Description
